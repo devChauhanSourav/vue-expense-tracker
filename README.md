@@ -1,5 +1,46 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# 💰 Vue Expense Tracker
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+A simple Expense Tracker built with Vue 3 that allows users to add, filter, and visualize their expenses using Chart.js.
+
+## 🔧 Features
+
+- Add daily/weekly expenses
+- Filter by category and date range
+- View expense breakdown via Pie Chart
+- Data saved in localStorage (no backend)
+- Built with Composition API and Vue 3
+
+## 🛠️ Tech Stack
+
+- Vue 3
+- Chart.js
+- Tailwind CSS
+
+## 📦 Project Setup
+
+```bash
+npm install
+npm run dev
+```
+
+## 🖼️ Screenshot
+
+![Expense Tracker Screenshot](screenshot.png)
+
+## 📁 Folder Structure
+
+```
+├── components/
+│   ├── ExpenseForm.vue
+│   ├── ExpenseList.vue
+│   ├── FilterBar.vue
+│   └── ExpenseChart.vue
+├── App.vue
+├── main.js
+├── README.md
+```
+
+## 📃 License
+
+MIT
