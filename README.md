@@ -26,7 +26,8 @@ npm run dev
 
 ## 🖼️ Screenshot
 
-![Expense Tracker Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/a6769a1f-f893-4ca5-9452-68fc63994a1b)
+
 
 ## 📁 Folder Structure
 
